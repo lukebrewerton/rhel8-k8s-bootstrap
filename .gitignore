@@ -1,0 +1,3 @@
+vars/main.yaml
+files/inventory
+*.retry
